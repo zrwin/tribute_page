@@ -1,0 +1,68 @@
+.{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    text-align: center;
+    background-color: rgba(71, 125, 212, 0.4);
+   
+
+}
+
+
+#title{
+    font-family: monospace;
+    font-size: 50px;
+    margin: 0 auto 0 auto;
+    color: rgb(50, 44, 73);
+    opacity: 1;
+    padding: 30px;
+    background-color: rgba(194, 104, 179, 0.4);
+    
+}
+
+
+#img-div{
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    background-color: rgb(189, 177, 186);
+
+}
+
+#image{
+    margin: 10px auto 0 auto;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+#img-caption{
+    font-size: 20px;
+    padding: 15px;
+    font-family: monospace;
+}
+
+#tribute-info{
+
+}
+
+#contributions{
+    padding: 30px;
+    line-height: 40px;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+
+.know-more{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#tribute-link{
+    text-decoration: none;
+    color: rgb(145, 39, 39);
+    font-family: monospace;
+    font-size: 15px;
+}
